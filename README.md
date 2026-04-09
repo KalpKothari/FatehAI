@@ -76,9 +76,9 @@ It transforms raw student inquiries into structured, actionable leads, enabling 
 - Timeline (30%)  
 
 **Categories:**
-- 🔥 Hot (70–100)  
-- ⚡ Warm (40–69)  
-- ❄️ Cold (0–39)  
+-  Hot (70–100)  
+-  Warm (40–69)  
+-  Cold (0–39)  
 
 ---
 
